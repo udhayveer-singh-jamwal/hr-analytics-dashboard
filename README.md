@@ -25,4 +25,3 @@ This Power BI dashboard provides key insights into employee data — focusing on
 
 ### 👤 About Me
 I’m **Udhayveer Singh Jamwal**, an aspiring **Data Analyst** learning **Excel, SQL, Power BI**.
-..
