@@ -19,9 +19,9 @@ This Power BI dashboard provides key insights into employee data — focusing on
 ### 🧩 Project Files
 | File | Description |
 |------|--------------|
-| `HR_Analytics.pbix` | Power BI dashboard file |
-| `HR_Data.xlsx` | Raw dataset |
-| `Screenshots/dashboard-view.png` | Dashboard preview image |
+| `HR Analytics Dashboard.pbix` | Power BI dashboard file |
+| `HR_Analytics_Intermediate_Project(1).xlsx` | Raw dataset |
+| `HR Analytics Dashboard 10_20_2025 12_04_43 AM.png` | Dashboard preview image |
 
 ### 👤 About Me
 I’m **Udhayveer Singh Jamwal**, an aspiring **Data Analyst** learning **Excel, SQL, Power BI**.
