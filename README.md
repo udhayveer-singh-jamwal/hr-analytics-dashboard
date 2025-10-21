@@ -11,10 +11,11 @@ This Power BI dashboard provides key insights into employee data — focusing on
 - Data Visualization and Dashboard Design
 
 ### 📈 Key Insights
-- **16% overall attrition rate**
-- Majority of employees left within **2 years** of joining
-- **Sales and Research** departments show the highest attrition
-- Employees with **low satisfaction levels** tend to leave faster
+- Alarmingly High Attrition: The overall attrition rate stands at 52.20%, indicating more than half of the workforce has left the company.
+
+- Major Attrition Spike: A significant increase in attrition was observed during 2020 and 2021, likely influenced by pandemic-related factors and market uncertainty.
+
+- High-Risk Departments: The Sales and R&D departments show the highest attrition counts, suggesting possible job stress, performance pressure, or limited career growth.
 
 ### 🧩 Project Files
 | File | Description |
