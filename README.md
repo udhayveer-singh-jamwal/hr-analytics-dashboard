@@ -1,4 +1,4 @@
-# 🧠 HR Analytics Dashboard (Power BI)
+# 🧠 HR Analytics Dashboard (Power BI)mnk
 
 ### 📊 Overview
 This Power BI dashboard provides key insights into employee data — focusing on attrition, performance, salary, and job satisfaction trends.  
